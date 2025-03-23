@@ -1,284 +1,55 @@
 {
-  "minecraft:recipes/decorations/ladder": {
+  "rpg_series:root": {
     "criteria": {
-      "has_stick": "2025-03-22 19:54:57 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-03-22 19:57:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2025-03-22 20:05:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-03-22 20:05:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-03-22 20:05:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-03-22 19:54:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/birch_post": {
-    "criteria": {
-      "has_item": "2025-03-22 19:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-03-22 20:05:33 +0000"
+      "always": "2025-03-23 20:21:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-03-22 19:54:14 +0000"
+      "unlock_right_away": "2025-03-23 20:21:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "naturalist:recipes/food/cooked_egg": {
     "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-03-22 20:05:46 +0000",
-      "minecraft:zombie": "2025-03-22 19:57:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-03-22 19:54:44 +0000"
-    },
-    "done": true
-  },
-  "bonfires:bonfires/ash_pile": {
-    "criteria": {
-      "killed_something_with_fire": "2025-03-22 19:57:42 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-03-22 19:54:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/earplugs": {
-    "criteria": {
-      "has_item": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "bonfires:recipes/building_blocks/ash_block": {
-    "criteria": {
-      "has_the_recipe": "2025-03-22 19:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-03-22 19:54:14 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-03-22 19:54:14 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2025-03-22 19:54:14 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/root": {
-    "criteria": {
-      "obtain_crafting_table": "2025-03-22 19:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2025-03-22 19:54:14 +0000"
-    },
-    "done": true
-  },
-  "bonfires:recipes/building_blocks/ash_bone_pile": {
-    "criteria": {
-      "has_the_recipe": "2025-03-22 19:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-03-22 19:54:44 +0000"
+      "has_eggs": "2025-03-23 20:21:19 +0000"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2025-03-22 19:54:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-03-22 19:54:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-03-22 19:54:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-03-22 20:05:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-03-22 19:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-03-22 19:54:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-03-22 19:54:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-03-22 20:05:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-03-22 19:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-03-22 19:54:57 +0000"
+      "WDA": "2025-03-23 20:21:19 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2025-03-22 19:54:14 +0000"
+      "always": "2025-03-23 20:21:19 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "betterdeserttemples:root": {
     "criteria": {
-      "minecraft:zombie": "2025-03-22 19:57:42 +0000"
+      "always": "2025-03-23 20:21:19 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "minecraft:forest": "2025-03-22 19:54:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
+      "seeds": "2025-03-23 20:21:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "betternether:root": {
     "criteria": {
-      "has_planks": "2025-03-22 19:54:50 +0000"
+      "welcome": "2025-03-23 20:21:20 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "betterend:root": {
     "criteria": {
-      "crafting_table": "2025-03-22 19:54:52 +0000"
+      "welcome": "2025-03-23 20:21:20 +0000"
     },
     "done": true
   },
