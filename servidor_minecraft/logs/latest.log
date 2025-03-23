@@ -2171,3 +2171,214 @@ com.google.gson.JsonSyntaxException: Missing field template
 [23Mar2025 01:58:28.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [23Mar2025 01:58:28.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... Jeremmop Jeremmyck<--[HERE]
 [23Mar2025 01:58:40.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Jeremmyck a server operator
+[23Mar2025 02:06:55.588] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeremmyck is 2e4e3042-3690-4d01-84d0-fad20d2387fe
+[23Mar2025 02:06:58.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeremmyck[/127.104.74.220:40243] logged in with entity id 229 at (2.5, 119.0, -5.5)
+[23Mar2025 02:06:58.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck joined the game
+[23Mar2025 02:06:59.044] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:06:59.046] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:06:59.047] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[23Mar2025 02:06:59.048] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[23Mar2025 02:06:59.049] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[23Mar2025 02:06:59.051] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[23Mar2025 02:06:59.056] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[23Mar2025 02:06:59.056] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[23Mar2025 02:06:59.057] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[23Mar2025 02:06:59.059] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:06:59.060] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:06:59.065] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:06:59.065] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:ff doesn't exist
+[23Mar2025 02:06:59.068] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[23Mar2025 02:06:59.068] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[23Mar2025 02:06:59.069] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:06:59.070] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[23Mar2025 02:06:59.077] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:06:59.078] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[23Mar2025 02:06:59.078] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat  doesn't exist
+[23Mar2025 02:06:59.078] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[23Mar2025 02:06:59.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck has made the advancement [Ice and Fire]
+[23Mar2025 02:07:00.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Mar2025 02:07:02.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeremmyck lost connection: Disconnected
+[23Mar2025 02:07:02.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck left the game
+[23Mar2025 02:07:49.818] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32bb394e[id=<null>,name=Jeremmyck,properties={},legacy=false] (/127.104.74.220:35139) lost connection: Disconnected
+[23Mar2025 02:07:57.944] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeremmyck is 2e4e3042-3690-4d01-84d0-fad20d2387fe
+[23Mar2025 02:08:00.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeremmyck[/127.104.74.220:51949] logged in with entity id 259 at (2.5, 119.0, -5.5)
+[23Mar2025 02:08:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck joined the game
+[23Mar2025 02:08:00.710] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:00.710] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:00.711] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[23Mar2025 02:08:00.714] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[23Mar2025 02:08:00.717] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[23Mar2025 02:08:00.720] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[23Mar2025 02:08:00.724] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[23Mar2025 02:08:00.724] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[23Mar2025 02:08:00.726] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[23Mar2025 02:08:00.730] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:00.732] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:00.733] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:00.734] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:ff doesn't exist
+[23Mar2025 02:08:00.734] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[23Mar2025 02:08:00.737] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[23Mar2025 02:08:00.737] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:00.738] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[23Mar2025 02:08:00.738] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:00.739] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[23Mar2025 02:08:00.740] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat  doesn't exist
+[23Mar2025 02:08:00.742] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[23Mar2025 02:08:03.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeremmyck lost connection: Disconnected
+[23Mar2025 02:08:03.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck left the game
+[23Mar2025 02:08:35.527] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeremmyck is 2e4e3042-3690-4d01-84d0-fad20d2387fe
+[23Mar2025 02:08:38.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeremmyck[/127.104.74.220:38215] logged in with entity id 277 at (2.5, 119.0, -5.5)
+[23Mar2025 02:08:38.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck joined the game
+[23Mar2025 02:08:38.330] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:38.330] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:38.330] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[23Mar2025 02:08:38.331] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[23Mar2025 02:08:38.331] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[23Mar2025 02:08:38.331] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[23Mar2025 02:08:38.333] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[23Mar2025 02:08:38.335] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[23Mar2025 02:08:38.335] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[23Mar2025 02:08:38.335] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:38.336] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:38.336] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:38.336] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:ff doesn't exist
+[23Mar2025 02:08:38.336] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[23Mar2025 02:08:38.337] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[23Mar2025 02:08:38.340] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:38.340] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[23Mar2025 02:08:38.340] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:08:38.341] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[23Mar2025 02:08:38.341] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat  doesn't exist
+[23Mar2025 02:08:38.341] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[23Mar2025 02:08:40.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeremmyck lost connection: Disconnected
+[23Mar2025 02:08:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck left the game
+[23Mar2025 02:09:23.675] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeremmyck is 2e4e3042-3690-4d01-84d0-fad20d2387fe
+[23Mar2025 02:09:26.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeremmyck[/127.104.74.220:50291] logged in with entity id 298 at (2.5, 119.0, -5.5)
+[23Mar2025 02:09:26.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck joined the game
+[23Mar2025 02:09:26.221] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:26.222] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:26.222] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[23Mar2025 02:09:26.223] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[23Mar2025 02:09:26.225] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[23Mar2025 02:09:26.225] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[23Mar2025 02:09:26.226] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[23Mar2025 02:09:26.227] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[23Mar2025 02:09:26.227] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[23Mar2025 02:09:26.227] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:26.229] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:26.231] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:26.231] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:ff doesn't exist
+[23Mar2025 02:09:26.231] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[23Mar2025 02:09:26.231] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[23Mar2025 02:09:26.231] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:26.233] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[23Mar2025 02:09:26.233] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:26.234] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[23Mar2025 02:09:26.234] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat  doesn't exist
+[23Mar2025 02:09:26.234] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[23Mar2025 02:09:28.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeremmyck lost connection: Disconnected
+[23Mar2025 02:09:28.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck left the game
+[23Mar2025 02:09:44.692] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeremmyck is 2e4e3042-3690-4d01-84d0-fad20d2387fe
+[23Mar2025 02:09:47.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeremmyck[/127.104.74.220:37119] logged in with entity id 326 at (2.5, 119.0, -5.5)
+[23Mar2025 02:09:47.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck joined the game
+[23Mar2025 02:09:47.108] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:47.108] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:47.108] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[23Mar2025 02:09:47.109] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[23Mar2025 02:09:47.109] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[23Mar2025 02:09:47.109] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[23Mar2025 02:09:47.110] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[23Mar2025 02:09:47.110] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[23Mar2025 02:09:47.110] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[23Mar2025 02:09:47.111] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:47.111] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:47.111] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:47.112] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:ff doesn't exist
+[23Mar2025 02:09:47.112] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[23Mar2025 02:09:47.112] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[23Mar2025 02:09:47.112] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:47.113] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[23Mar2025 02:09:47.113] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:09:47.113] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[23Mar2025 02:09:47.114] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat  doesn't exist
+[23Mar2025 02:09:47.114] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[23Mar2025 02:09:50.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeremmyck lost connection: Disconnected
+[23Mar2025 02:09:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck left the game
+[23Mar2025 02:14:30.815] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeremmyck is 2e4e3042-3690-4d01-84d0-fad20d2387fe
+[23Mar2025 02:14:33.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeremmyck[/127.104.74.220:53169] logged in with entity id 357 at (2.5, 119.0, -5.5)
+[23Mar2025 02:14:33.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck joined the game
+[23Mar2025 02:14:33.616] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:33.616] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:33.616] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[23Mar2025 02:14:33.617] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[23Mar2025 02:14:33.617] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[23Mar2025 02:14:33.617] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[23Mar2025 02:14:33.618] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[23Mar2025 02:14:33.620] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[23Mar2025 02:14:33.620] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[23Mar2025 02:14:33.620] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:33.621] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:33.621] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:33.621] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:ff doesn't exist
+[23Mar2025 02:14:33.621] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[23Mar2025 02:14:33.621] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[23Mar2025 02:14:33.622] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:33.622] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[23Mar2025 02:14:33.624] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:33.625] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[23Mar2025 02:14:33.625] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat  doesn't exist
+[23Mar2025 02:14:33.627] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[23Mar2025 02:14:36.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeremmyck lost connection: Disconnected
+[23Mar2025 02:14:36.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck left the game
+[23Mar2025 02:14:53.356] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeremmyck is 2e4e3042-3690-4d01-84d0-fad20d2387fe
+[23Mar2025 02:14:55.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeremmyck[/127.104.74.220:41807] logged in with entity id 384 at (2.5, 119.0, -5.5)
+[23Mar2025 02:14:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck joined the game
+[23Mar2025 02:14:55.914] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:55.916] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:55.916] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[23Mar2025 02:14:55.916] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[23Mar2025 02:14:55.916] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[23Mar2025 02:14:55.916] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[23Mar2025 02:14:55.918] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[23Mar2025 02:14:55.919] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[23Mar2025 02:14:55.921] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[23Mar2025 02:14:55.921] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:55.921] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:55.922] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:55.922] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:ff doesn't exist
+[23Mar2025 02:14:55.922] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[23Mar2025 02:14:55.923] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[23Mar2025 02:14:55.923] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:55.923] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[23Mar2025 02:14:55.924] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:14:55.925] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[23Mar2025 02:14:55.928] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat  doesn't exist
+[23Mar2025 02:14:55.928] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[23Mar2025 02:14:59.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeremmyck lost connection: Disconnected
+[23Mar2025 02:14:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck left the game
+[23Mar2025 02:15:39.585] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeremmyck is 2e4e3042-3690-4d01-84d0-fad20d2387fe
+[23Mar2025 02:15:42.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeremmyck[/127.104.74.220:37271] logged in with entity id 408 at (2.5, 119.0, -5.5)
+[23Mar2025 02:15:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck joined the game
+[23Mar2025 02:15:42.072] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:15:42.073] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:15:42.074] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[23Mar2025 02:15:42.076] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[23Mar2025 02:15:42.077] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[23Mar2025 02:15:42.077] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[23Mar2025 02:15:42.081] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[23Mar2025 02:15:42.081] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[23Mar2025 02:15:42.081] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[23Mar2025 02:15:42.081] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:15:42.082] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:15:42.082] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:15:42.083] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:ff doesn't exist
+[23Mar2025 02:15:42.085] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[23Mar2025 02:15:42.085] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[23Mar2025 02:15:42.085] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:15:42.087] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[23Mar2025 02:15:42.089] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Mar2025 02:15:42.089] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[23Mar2025 02:15:42.089] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat  doesn't exist
+[23Mar2025 02:15:42.090] [Server thread/ERROR] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[23Mar2025 02:15:44.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeremmyck lost connection: Disconnected
+[23Mar2025 02:15:44.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeremmyck left the game
