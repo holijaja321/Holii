@@ -1,0 +1,60 @@
+
+["Exp Manager"]
+	#The exp base, do not modify if unsure
+	"EXP Base" = 20.0
+	#A custom bonus to earned exp
+	"EXP Bonus" = 0.0
+	#Minimal exp value, do not modify if unsure
+	"EXP Min" = 100.0
+	#Maximum exp value, do not modify if unsure
+	"EXP Max" = 200.0
+	#This option makes get level up harder. It also can be tweaked with Exp division.
+	"Old EXP" = false
+	#Makes a division on the exp to tweak it, do not modify or use if unsure
+	"Exp Division" = false
+	#The division value
+	"EXP Division Value" = 0.0
+	#Makes the game allowing to exchange vanilla exp to mod exp
+	"Exp Exchange" = false
+	#The value of the exchange
+	"EXP Exchange Value" = 20.0
+	"EXP Start" = 50.0
+	#This config allows to configure how the system will work, in tag mode only entities inside tag will give exp and in type mode only entities with the correct type will give exp
+	"The exp is taken from" = "Type"
+	#1 = only entities with enemy type, 2 = enemy and mob, 3 = enemy, mob and passive, 4 = ememy, mob, passive and player. Formatting is 1.0, 2.0 and etc
+	"Allowed types" = 1.0
+
+[Misc]
+	#Max level for all players in server, it wont apply when you lvlup with commands. Note: Do not set max level too high
+	"Max Player Level" = 200.0
+	"Letter in the lvlup chat" = "M"
+	"SP per level up" = 1.0
+	"Use Legacy menu screen?" = true
+	"Use other methods to open the menu?" = false
+	"Do right click with one item?" = true
+	"Item ID" = "minecraft:stick"
+	"Right clicking a block?" = true
+	"Block ID" = "minecraft:dirt"
+
+["Epic Fight"]
+	#This feature depends in Epic Fight Mod to work, it makes you have a weight limit while carrying armors.
+	Weight = true
+	#Determines the amount of weight bonus per stat level
+	"Weight per level" = 1.0
+	#Do not modify this :3
+	"Weight at the start" = 40.0
+	#Determines which stat is used to rise weight
+	"Weight Stat" = 3.0
+	#Determines the limit of weight when you enter for first time in a world
+	"Weight Limit Modifier" = 50.0
+
+[Autoleveling]
+	#A cap to Autoleveling mobs
+	"Auto Leveling Cap" = 1.0
+
+[Paraglider]
+	#Remember to edit paraglider config and increase number of improvements as a desired value
+	"Paraglider Upgrade " = true
+	#Leave it at 1 (Recommended)
+	"Paraglider Value" = 1.0
+
